@@ -6,5 +6,5 @@
 Модель данных:\
 Сущность Task с полями: id, title, description, dueDate, completed.
 
-Скрипт по созданию таблицы описан в файле data.sql.\
+Скрипт по созданию таблицы описан в файле [data.sql](https://github.com/dgrishin95/t1_homework2/blob/master/src/main/resources/data.sql).\
 Валидация (поле title не должно быть пустым) реализована как на уровне базы, так и на уровне приложения.
